@@ -30,14 +30,7 @@ export function Navbar() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/riad-azz/instagram-video-downloader"
-              className="hover:underline"
-            >
-              Github
-            </Link>{" "}
-            <Link
-              target="_blank"
-              href="https://github.com/riad-azz"
+              href="https://instagram.com/nzkiii45"
               className="hover:underline"
             >
               Creator
